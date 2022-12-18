@@ -1,5 +1,6 @@
 #### I am 3d Artist and Graphic Designer
-![I am 3d Artist and Graphic Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am 3d Artist and Graphic Designer]
+![ezgif com-gif-makermid1](https://user-images.githubusercontent.com/110712636/208322398-19e58cdd-e3d3-4884-a71b-01ae01c82762.gif)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
